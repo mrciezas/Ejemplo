@@ -8,7 +8,7 @@ import dao.component.*;
 import dao.design.IClienteDAO;
 import dao.design.IEmpleadoDAO;
 import dao.design.IRequerimientoDAO;
-
+//mox es mi amiwis :3
 /**
  *
  * @author pc
